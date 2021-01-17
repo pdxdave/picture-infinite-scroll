@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 ![](/src/demo/scroll.gif)
-![](.src/demo/scroll.gif)
-![](scroll.gif)
+<!-- ![](.src/demo/scroll.gif)
+![](scroll.gif) -->
 
 
 
