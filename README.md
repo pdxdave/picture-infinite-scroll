@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ## Demo
-[![Demo](http://share.gifyoutube.com/KzB6Gb.gif)]
+[![Demo](https://gph.is/g/E3LKwBx)]
 
 In the project directory, you can run:
 
