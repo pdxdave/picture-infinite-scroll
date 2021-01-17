@@ -5,14 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ## Demo
-[![Demo](https://gifs.com/gif/infinite-scroll-oV3oVB)](https://www.youtube.com/watch?v=z2X0kMZZSJU)
+[![Demo](https://j.gifs.com/oV3oVB.gif)](https://www.youtube.com/watch?v=z2X0kMZZSJU)
 
-http://gifs.com/gif/infinite-scroll-oV3oVB
-
-https://j.gifs.com/oV3oVB.gif
-
-
-<iframe src='//gifs.com/embed/oV3oVB 'frameborder='0' scrolling='no' width='736px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 
 In the project directory, you can run:
