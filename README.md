@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ## Demo
-[![Demo](https://gifs.com/gif/infinite-scroll-oV3oVB)]
+[![Demo](https://gifs.com/gif/infinite-scroll-oV3oVB)](https://www.youtube.com/watch?v=z2X0kMZZSJU)
 
 In the project directory, you can run:
 
